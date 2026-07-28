@@ -3,5 +3,5 @@ this is my first git-repository
 <br>
 AUTHOR-TUSHAR ARVIND JADHAV
 <br>
-hello tushar
+hello (Tushar Arvind Jadhav)
 
